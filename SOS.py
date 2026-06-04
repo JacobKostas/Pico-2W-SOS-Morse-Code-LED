@@ -9,7 +9,6 @@ def blink(times, duration):
         time.sleep(duration)
         led.value(0)
         time.sleep(duration)
-
 while True:
     blink(3, 0.25)
     blink(3, 0.5)
