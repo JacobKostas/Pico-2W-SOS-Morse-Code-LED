@@ -1,7 +1,6 @@
 # Pico 2W SOS Morse Code LED 📟🆘
-# Pico 2W SOS Morse Code LED 📟🆘
 
-![Status](https://img.shields.io/badge/Status-Awaiting%20Hardware-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-COMPLETE%20-blue?style=for-the-badge)
 
 A lightweight MicroPython program that flashes the onboard LED of the Raspberry Pi Pico 2W to signal "SOS" (`... --- ...`) in Morse code. This is one of my very first projects diving into physical computing and microcontrollers!
 
